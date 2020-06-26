@@ -1,7 +1,6 @@
-# Root Scripts
+# Changelog
 
-Useful scripts for Windows 10, personally curated and created by me.
-Most scripts will be either powershell or batch.
+This area shows the history of releases and their corresponding changes.
 
 
 ## 1.0.0 - Intial scripts
