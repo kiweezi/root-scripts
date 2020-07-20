@@ -4,16 +4,15 @@ Useful scripts for Windows 10. Personally curated and created by me.
 Most scripts will be either powershell or batch.
 
 
-## 1.0.0 - Intial scripts
+## 1.0.1 - Remove Lockscreen Tips
 
-Adds the first set of scripts to the repository.
+Adds a script to clean up Windows 10 lockscreen.
 
 ### Changes:
 
-- Added a batch file to allow the execution of Powershell scripts.
-- Added script to clean up Windows UWP Appx packages.
-- Added script to put Control Panel on the WinX menu.
+- Added script to remove Windows Lockscreen tips for Windows Spotlight.
+- Renamed script files appropriately.
 
 ### Fixes:
 
-- Removed broken, old scripts.
+- None

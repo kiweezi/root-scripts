@@ -3,6 +3,16 @@
 This area shows the history of releases and their corresponding changes.
 
 
+## 1.0.1 - Remove Lockscreen Tips
+
+Adds a script to clean up Windows 10 lockscreen.
+
+### Changes:
+
+- Added script to remove Windows Lockscreen tips for Windows Spotlight.
+- Renamed script files appropriately.
+
+
 ## 1.0.0 - Intial scripts
 
 Adds the first set of scripts to the repository.
