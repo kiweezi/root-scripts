@@ -15,16 +15,16 @@
 ---
 
 ## Setup
-- Download and extract the Zip file from GitHub.
-- Run the ```.Allow-PSScripts.bat``` batch file with administrator to allow execution of downloaded PowerShell scripts.
+1. Download and extract the Zip file from GitHub.
+2. Run the ```.Allow-PSScripts.bat``` batch file with administrator to allow execution of downloaded PowerShell scripts.
 
 ## Usage
-- Open a PowerShell terminal.
-- Set your execution location to the scripts folder:
+1. Open a PowerShell terminal.
+2. Set your execution location to the scripts folder:
 ```powershell
 Set-Location "C:\test\scripts\"
 ```
-- Call a script by typing ```.\``` before the script filename: 
+3. Call a script by typing ```.\``` before the script filename: 
 ```powershell
 .\Remove-LockscreenTips.ps1
 ```
