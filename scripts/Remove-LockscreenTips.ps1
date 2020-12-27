@@ -39,6 +39,7 @@ Set-ItemProperty -Path $keyPath -Name 'SubscribedContent-338387Enabled' -Value 0
 $script = {
 	$keyPath = 'HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager'
 	Set-ItemProperty -Path $keyPath -Name 'SubscribedContent-338387Enabled' -Value 1
+	Start-Sleep -Seconds 5
 	Set-ItemProperty -Path $keyPath -Name 'SubscribedContent-338387Enabled' -Value 0
 }
 # Set the job to run elevated at the current user's sign in.
