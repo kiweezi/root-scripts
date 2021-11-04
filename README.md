@@ -27,15 +27,3 @@ Set-Location "C:\test\scripts\"
 ```powershell
 .\Remove-LockscreenTips.ps1
 ```
-
-## Latest Version
-
-### 1.0.1 - Remove Lockscreen Tips
-Adds a script to clean up Windows 10 lockscreen.
-
-### Changes:
-- Added script to remove Windows Lockscreen tips for Windows Spotlight.
-- Renamed script files appropriately.
-
-### Fixes:
-- None
