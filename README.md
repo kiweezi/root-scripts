@@ -2,7 +2,6 @@
 
 #### Useful scripts for Windows 10. Personally curated and created by me. Most scripts will be either PowerShell or batch.
 
----
 
 ## Index
 
@@ -12,11 +11,11 @@
 * [Latest Version](#latest-version)
 <!--toc-end-->
 
----
 
 ## Setup
 1. Download and extract the Zip file from GitHub.
 2. Run the ```.Allow-PSScripts.bat``` batch file with administrator to allow execution of downloaded PowerShell scripts.
+
 
 ## Usage
 1. Open a PowerShell terminal.
