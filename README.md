@@ -1,6 +1,6 @@
 # Root Scripts
 
-#### Useful scripts for Windows 10. Personally curated and created by me. Most scripts will be either PowerShell or batch.
+#### Useful scripts. Personally curated and created by me. Most scripts will be either PowerShell or batch.
 
 
 ## Index
